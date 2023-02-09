@@ -1,2 +1,3 @@
 # jd-inteCV
-web cv 
+web cv with react next js
+CV and portfolio
