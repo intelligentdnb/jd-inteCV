@@ -13,9 +13,8 @@ const Header = () => {
                         <div className="col-md-8">
                             <h2>Juan Diego MCA</h2>
                             <h5>Software Developer</h5>
-                            <p>I study to build solutions that help other people as well as myself. I enjoy learning new languages and
-                                frameworks. Interested in the data, how to present it, transmit it and its respective security. I want people
-                                to become financially empowered. </p>
+                            <p>I study to build solutions that help other people as well as myself. Interested in the data, how to present it, transmit it and its respective security. I want people
+                                to become financially empowered. I work with various frameworks and learn new ones depending on the project.</p>
                             <div className="card text-white bg-primary mb-3">
                                 <div className="card-body">
                                     <h5>Contact </h5>
