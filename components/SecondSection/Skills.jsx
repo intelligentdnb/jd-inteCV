@@ -1,7 +1,7 @@
 
 const Skills = () => {
 
-    const skills = ["JavaScript", "TypeScript", "NodeJS", "React / Native", "CSS and frames", "Git", "Express", 
+    const skills = ["JavaScript", "TypeScript", "NodeJS", "React / Native", "NextJS", "CSS and frames", "Git", "Express", 
     "Sequelize", "PostgreSQL", "AWS", "Firebase", "GraphQL", "Redux", "Recoil", "HTML", "Excel / Spreadsheets", "Photoshop"]
     return (
         <div className="col-md-4" >
