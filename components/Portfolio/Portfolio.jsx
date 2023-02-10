@@ -12,7 +12,7 @@ const Portfolio = () => {
                             <h1 className="text-center text-light">Portfolio</h1>
                         </div>
                         {
-                            projects.map(({ name, description, image, link }, i) => (
+                            projects.map(({ name, description, image, link, descripLink }, i) => (
                                 <div className="col-md-4 p-2" key={i}>
                                     <div className="card h-100">
                                         <div className="overflow">
@@ -21,7 +21,7 @@ const Portfolio = () => {
                                         <div className="card-body bg-dark text-light" >
                                             <h3>{name}</h3>
                                             <p>{description}</p>
-                                            <a href={link} className="text-light">Know more</a>
+                                            <a href={link} className="text-light" target="_blank">{descripLink}</a>
                                         </div>
                                     </div>
                                 </div>
@@ -29,7 +29,7 @@ const Portfolio = () => {
                         }
                     </div>
                     <div className="text-center mt-">
-                        <Link href="/portfolio" className="btn btn-outline-light">More Projects</Link>
+                        <Link href="/portfolioPage" className="btn btn-outline-light">More Projects</Link>
                     </div>
                 </div>
             </div>

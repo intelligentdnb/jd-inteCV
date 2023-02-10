@@ -1,38 +1,44 @@
 export const projects = [
     {
-        name: "proyecto 1",
-        description: "Lorem, asdasdadsadasdasdaAAAAAAAAAAAAAAAAAAAAAAdadad",
-        image: "/assets/portfolio1.jpeg",
-        link: ""
+        name: "Reddit Clone",
+        description: "Reddit clone using React, Next.js, Firebase v9, Chakra UI, Recoil, Auth.",
+        image: "/assets/reddit.png",
+        link: "https://github.com/intelligentdnb/reddit-inte",
+        descripLink: "View repository"
     },
     {
-        name: "proyecto 2",
-        description: "Lorem, asdasdadsadasdasdaAAAAAAAAAAAAAAAAAAAAAAdadad",
-        image: "/assets/portfolio2.jpg",
-        link: ""
+        name: "Youtube 2.0 RapidAPI",
+        description: "A clone of Youtube using React, MUI Material and RapidAPI.",
+        image: "/assets/youtube.png",
+        link: "https://intelligent-youtube.vercel.app/",
+        descripLink: "View deploy"
     },
     {
-        name: "proyecto 3",
-        description: "Loremssssssssssssssssssssssssssssssadasda sdasdasd asd asdasd",
-        image: "/assets/portfolio3.png",
-        link: ""
+        name: "B2B Commodities",
+        description: "Global forum to buy and sell commodities. Front, back and DB technologies: JavaScript, React, NodeJS, Express, Sequelize, postgreSQL, etc.",
+        image: "/assets/b2bcom.png",
+        link: "https://github.com/intelligentdnb/Commodities-Project",
+        descripLink: "View repository"
     },
     {
-        name: "proyecto 4",
-        description: "Lorem, asdasdadsadasdasdaAAAAAAAAAAAAAAAAAAAAAAdadad",
-        image: "/assets/portfolio4.png",
-        link: ""
+        name: "CryptoMis",
+        description: "Cryptocurrencie exchange using TypeScript, React-Native, AWS Amplify, Expo, etc.",
+        image: "/assets/exchange.png",
+        link: "https://github.com/intelligentdnb/criptoMis",
+        descripLink: "View repository"
     },
     {
-        name: "proyecto 5",
-        description: "Lorem, asdasdadsadasdasdaAAAAAAAAAAAAAAAAAAAAAAdadad",
-        image: "/assets/portfolio5.jpeg",
-        link: ""
+        name: "Admin Dashboard",
+        description: "Admin dashboard, JavaScript, Tailwind CSS, @syncfusion.",
+        image: "/assets/dashboard.png",
+        link: "https://github.com/intelligentdnb/admindash",
+        descripLink: "View repository"
     },
     {
-        name: "proyecto 6",
-        description: "Lorem, asdasdadsadasdasdaAAAAAAAAAAAAAAAAAAAAAAdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadad",
-        image: "/assets/portfolio6.jpeg",
-        link: ""
+        name: "Dog's Universe",
+        description: "Single Web Application. My first Full Stack project. Using: JavaScript, React, CSS, NodeJS, Express, Sequelize, PostgreSQL.",
+        image: "/assets/dogs.png",
+        link: "https://github.com/intelligentdnb/PIDogs",
+        descripLink: "View repository"
     },
 ]
