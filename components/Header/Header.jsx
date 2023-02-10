@@ -20,9 +20,9 @@ const Header = () => {
                                     <h5>Contact </h5>
                                     
                                     <p className="card-text">Email: <a href="mailto:juandiarts@gmail.com" style={{ color: "white", }}>juandiarts@gmail.com</a></p>
-                                    <p className="card-text">Tel: <a href="tel:+5493764410695" style={{ color: "white", }}>+54 9 3764 41 0695</a>   | Posadas, Misiones, Argentina.</p>
-                                    <p className="card-text"><a href="https://www.linkedin.com/in/juandimca" target="_blank" style={{ color: "white", }}>linkedin.com/in/juandimca</a> | <a href="https://github.com/intelligentdnb" style={{ color: "white", }}>github.com/intelligentdnb</a></p>
-                                    <b>Languagues:</b> <p>English advanced <a href="https://www.efset.org/cert/UhnwFb" style={{ color: "white", }} target="_blank">C1 certificate.</a> | Spanish native.</p>
+                                    <p className="card-text">Tel: <a href="tel:+5493764410695" style={{ color: "white", }}>+54 9 3764 41 0695</a>  | Posadas, Misiones, Argentina.</p>
+                                    <p className="card-text"><a href="https://www.linkedin.com/in/juandimca" target="_blank" style={{ color: "white", }}>linkedin.com/in/juandimca</a> &nbsp; <a href="https://github.com/intelligentdnb" style={{ color: "white", }}>github.com/intelligentdnb</a></p>
+                                    <b>Languagues:</b> <p>English advanced <a href="https://www.efset.org/cert/UhnwFb" style={{ color: "white", }} target="_blank">C1 certificate.</a> &nbsp; Spanish native.</p>
                                 </div>
                             </div>
                         </div>
