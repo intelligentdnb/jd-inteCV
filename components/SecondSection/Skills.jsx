@@ -2,7 +2,7 @@
 const Skills = () => {
 
     const skills = ["JavaScript", "TypeScript", "NodeJS", "React / Native", "NextJS", "CSS and frames", "Git", "Express", 
-    "Sequelize", "PostgreSQL", "AWS Amplify", "Firebase", "GraphQL", "Redux", "Recoil", "HTML", "Excel / Spreadsheets", "Photoshop"]
+    "Sequelize", "PostgreSQL", "AWS", "Firebase", "GraphQL", "Redux", "Recoil", "HTML", "Excel / Spreadsheets", "Photoshop"]
     return (
         <div className="col-md-4" >
             <div className="card bg-secondary text-light">
